@@ -1,2 +1,2 @@
 # axt-gl-haskell
-Helpers for OpenGL.
+Library for OpenGL Helpers.
