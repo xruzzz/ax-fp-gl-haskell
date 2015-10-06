@@ -1,0 +1,11 @@
+flags: {}
+packages:
+- '.'
+extra-deps:
+- hscurses-1.4.2.0
+- OpenGL-2.12.0.1
+- GLUT-2.7.0.2
+- GLURaw-1.5.0.1
+- ObjectName-1.1.0.0
+- OpenGLRaw-2.5.4.0
+resolver: lts-3.7
